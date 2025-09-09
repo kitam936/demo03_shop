@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Dijon_Shop</title>
+        <title>Demo03_Shop</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -47,10 +47,10 @@
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
                         <div class="scale-100 p-6 bg-white dark:bg-gray-800/50 dark:bg-gradient-to-bl from-gray-700/50 via-transparent dark:ring-1 dark:ring-inset dark:ring-white/5 rounded-lg shadow-2xl shadow-gray-500/20 dark:shadow-none flex motion-safe:hover:scale-[1.01] transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500">
                             <div>
-                                <h2 class="mt-2 text-xl font-semibold text-gray-900 dark:text-white">Dijon_Shop</h2>
+                                <h2 class="mt-2 text-xl font-semibold text-gray-900 dark:text-white">Demo03_店頭管理</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Dijonのshop間の情報共有・交換を目的としたサイトです。<br><br>
+                                    shopの店頭情報の共有・交換を目的としたサイトです。<br><br>
 
                                     このサイトでは下記のことができます。<br>
                                     ①店別の売上（年度・月別・週別・日別）<br>　在庫の各種データ確認（SKU単位）<br>
@@ -74,7 +74,7 @@
 
                                     　パスワードを忘れた場合　および<br>
                                     　このサイトに関する問い合わせは<br>
-                                    <span  class="text-black-900 items-center bold"><a href="mailto:shop@dijon1988.net">　shop@dijon1988.net　</a></span> までお願いします。<br>
+                                    <span  class="text-black-900 items-center bold"><a href="mailto:shop@dijon1988.net">　info@ktm936.com　</a></span> までお願いします。<br>
                                 </p>
                             </div>
                         </div>
