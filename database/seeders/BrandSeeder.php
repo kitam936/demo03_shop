@@ -18,18 +18,18 @@ class BrandSeeder extends Seeder
         DB::table('brands')->insert([
             [
             'id' => 1,
-            'brand_name' => 'TBIS',
-            'brand_info' => 'TBIS',
+            'brand_name' => 'A',
+            'brand_info' => 'A',
             ],
             [
             'id' => 6,
-            'brand_name' => 'Mam',
-            'brand_info' => 'Mam',
+            'brand_name' => 'B',
+            'brand_info' => 'B',
             ],
             [
             'id' => 7,
-            'brand_name' => 'notorico',
-            'brand_info' => 'notorico',
+            'brand_name' => 'C',
+            'brand_info' => 'C',
             ],
 
 
